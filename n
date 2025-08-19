@@ -1,0 +1,116 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jackpot World Sweepstakes</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #000;
+      color: #fff;
+    }
+    header {
+      background: linear-gradient(90deg, #d4af37, #ff0000);
+      padding: 20px;
+      text-align: center;
+      font-size: 2em;
+      font-weight: bold;
+      color: #fff;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background: #111;
+      padding: 10px;
+    }
+    nav a {
+      color: gold;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #fff;
+    }
+    section {
+      padding: 40px;
+      text-align: center;
+    }
+    .banner {
+      background: url('https://i.ibb.co/m9PJ0zW/casino-bg.jpg') center/cover;
+      padding: 100px 20px;
+      color: #fff;
+      font-size: 2em;
+      font-weight: bold;
+      text-shadow: 2px 2px 8px #000;
+    }
+    .games img {
+      width: 200px;
+      height: auto;
+      margin: 15px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px gold;
+    }
+    .btn {
+      display: inline-block;
+      background: gold;
+      color: #000;
+      padding: 15px 30px;
+      margin-top: 20px;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 10px;
+    }
+    .btn:hover {
+      background: #fff;
+      color: #000;
+    }
+    footer {
+      background: #111;
+      padding: 20px;
+      text-align: center;
+      color: gold;
+    }
+  </style>
+</head>
+<body>
+  <header>🎰 Jackpot World Sweepstakes 🎉</header> <nav>
+    <a href="#home">Home</a>
+    <a href="#games">Games</a>
+    <a href="#promotions">Promotions</a>
+    <a href="#how">How to Play</a>
+    <a href="#contact">Contact</a>
+  </nav> <section id="home">
+    <div class="banner">
+      Win Big Every Day! 💰 <br>
+      Play & Redeem Exciting Prizes
+      <br><a href="#contact" class="btn">Play Now</a>
+    </div>
+  </section> <section id="games" class="games">
+    <h2>🔥 Our Games 🔥</h2>
+    <img src="https://i.ibb.co/VpybTZQ/slot.jpg" alt="Slots">
+    <img src="https://i.ibb.co/W3pzkW5/fish.jpg" alt="Fish Game">
+    <img src="https://i.ibb.co/Jny45tH/spin.jpg" alt="Lucky Spin">
+  </section> <section id="promotions">
+    <h2>🎁 Promotions 🎁</h2>
+    <p>✅ Daily Free Coins</p>
+    <p>✅ Weekly Free Play</p>
+    <p>✅ Referral Bonuses</p>
+    <p>✅ Jackpot Tournaments</p>
+  </section> <section id="how">
+    <h2>📖 How to Play</h2>
+    <p>1️⃣ Register & Download the App</p>
+    <p>2️⃣ Deposit via CashApp, PayPal, or Zelle</p>
+    <p>3️⃣ Play Exciting Games</p>
+    <p>4️⃣ Redeem Winnings Instantly</p>
+  </section> <section id="contact">
+    <h2>📞 Contact Us</h2>
+    <p>💬 WhatsApp: <a href="https://wa.me/1234567890" style="color: gold;">Chat Now</a></p>
+    <p>📧 Email: support@jackpotworld.com</p>
+    <a href="#home" class="btn">Start Playing</a>
+  </section> <footer>
+    © 2025 Jackpot World Sweepstakes | All Rights Reserved
+  </footer>
+</body>
+</html>
